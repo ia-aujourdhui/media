@@ -6,3 +6,4 @@
 - TikTok : carrousel PHOTO par défaut (slides 1080x1920, brouillon Buffer avec attachment=image et la slide 1 — Zapier ne permet qu'une image, Elvan ajoute les slides 2-N dans Buffer + son tendance natif). Ne plus générer de MP4 sauf demande explicite.
 - Cible : étudiants/jeunes actifs FR. Piliers : outil du jour (~4/sem), astuces, actu IA, comparatifs
 - Légende : hook fort, liste numérotée, question engagement, CTA abonnement, ~10 hashtags FR
+- À chaque exécution : copier toutes les slides (Insta + TikTok) dans le dossier outputs local de la session et les présenter à Elvan (present_files), pour qu'il puisse les ajouter dans Buffer sans passer par GitHub.
