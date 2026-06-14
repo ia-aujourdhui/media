@@ -9,3 +9,5 @@ Outils déjà traités : Perplexity, NotebookLM, Gamma, Le Chat (Mistral), Canva
 Sujets astuces déjà traités : révisions bac/partiels avec l'IA (prompts prof particulier, QCM, correcteur, oral blanc)
 Comparatifs déjà traités : ChatGPT vs Gemini vs Claude (plans gratuits, juin 2026)
 | 003 | 2026-06-12 | Comparatif | ChatGPT vs Gemini vs Claude en gratuit (GPT-5.5, Gemini 3.5 Flash, Claude Fable 5 sorti le 9 juin) + astuce "utilise les 3" | Brouillons Buffer Insta + TikTok (mode photo) créés |
+| 004 | 2026-06-14 | Outil du jour | Suno AI V5.5 : creer une chanson avec l'IA en 30 secondes (plan gratuit 50 credits/jour, genres, prompt tips) | Brouillons Buffer Insta + TikTok crees |
+Sujets IA déjà traités : Suno AI (génération musicale)
