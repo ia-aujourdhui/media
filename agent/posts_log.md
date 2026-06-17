@@ -13,3 +13,5 @@ Comparatifs déjà traités : ChatGPT vs Gemini vs Claude (plans gratuits, juin 
 Sujets IA déjà traités : Suno AI (génération musicale)
 Outils video deja traites : Veo 3.1 (generation video Google)
 | 005 | 2026-06-15 | Outil du jour | Veo 3.1 : generer des videos IA gratuitement avec Google (10 clips/mois, compte Google suffit) | Brouillons Buffer Insta + TikTok crees |
+| 006 | 2026-06-17 | Actu IA | Google Messages teste un détecteur d'images IA (badge C2PA repéré dans une bêta, juin 2026, fonctionnalité non encore confirmée officiellement par Google) | Brouillons Buffer Insta + TikTok créés |
+Sujets actu IA déjà traités : Google Messages / détection d'images IA via C2PA (juin 2026, fonctionnalité en bêta non confirmée)
