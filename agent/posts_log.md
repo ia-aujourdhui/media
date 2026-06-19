@@ -17,3 +17,5 @@ Outils video deja traites : Veo 3.1 (generation video Google)
 Sujets actu IA déjà traités : Google Messages / détection d'images IA via C2PA (juin 2026, fonctionnalité en bêta non confirmée)
 | 007 | 2026-06-18 | Astuces/tutos | 5 prompts IA gratuits pour décrocher un stage (CV, lettre de motivation, simulation d'entretien, questions recruteur, relecture) | Brouillons Buffer Insta + TikTok créés |
 Sujets astuces déjà traités : révisions bac/partiels, recherche de stage/alternance (CV, lettre de motivation, entretien)
+| 008 | 2026-06-19 | Outil du jour | Foxia : transformer un PDF de cours en fiche de révision, QCM, flashcards et audio en 30 secondes (gratuit jusqu'à 50 pages, premium à partir de 4,99€/mois) — pertinent pour la période bac/partiels | Brouillons Buffer Insta + TikTok créés |
+Outils déjà traités : Perplexity, NotebookLM, Gamma, Le Chat (Mistral), Canva Magic Studio, Suno AI, Veo 3.1, Foxia
