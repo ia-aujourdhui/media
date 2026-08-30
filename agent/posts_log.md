@@ -19,3 +19,5 @@ Sujets actu IA déjà traités : Google Messages / détection d'images IA via C2
 Sujets astuces déjà traités : révisions bac/partiels, recherche de stage/alternance (CV, lettre de motivation, entretien)
 | 008 | 2026-06-19 | Outil du jour | Foxia : transformer un PDF de cours en fiche de révision, QCM, flashcards et audio en 30 secondes (gratuit jusqu'à 50 pages, premium à partir de 4,99€/mois) — pertinent pour la période bac/partiels | Brouillons Buffer Insta + TikTok créés |
 Outils déjà traités : Perplexity, NotebookLM, Gamma, Le Chat (Mistral), Canva Magic Studio, Suno AI, Veo 3.1, Foxia
+| 009 | 2026-08-30 | Actu IA | Article 50 de l'AI Act européen (obligation de transparence IA en vigueur depuis le 2 août 2026) : chatbots qui doivent se déclarer, watermarks sur contenus générés, amendes jusqu'à 15M€ | Brouillons Buffer Insta + TikTok (mode photo) créés |
+Sujets actu IA déjà traités : Google Messages / détection d'images IA via C2PA (juin 2026), AI Act article 50 transparence (chatbots, watermarks, deepfakes, en vigueur depuis le 2 août 2026)
