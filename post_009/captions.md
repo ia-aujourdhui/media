@@ -1,44 +1,32 @@
-# Post 009 — 2026-09-02 — Actu IA : Gemini Study Notebooks
+# Post 009 - Légendes
 
-## Sujet
-Google a lancé "Study Notebooks" (carnets d'étude) dans l'app Gemini : un espace de révision qui génère un quiz diagnostic à partir de tes cours, puis des leçons courtes ciblées sur tes lacunes, avec un tableau de bord de progression. Gratuit, disponible en France, en français, avec un simple compte Google personnel (pas besoin de compte établissement).
+## Instagram (carrousel)
 
-Sources vérifiées :
-- Annonce officielle Google (blog.google, 25 juin 2026) : https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/
-- Confirmation disponibilité gratuite en France/FR : accès via notebook.google.com ou l'app Gemini avec un compte Google personnel.
+Depuis le 2 août, une loi européenne t'oblige (enfin, oblige les IA) à te dire clairement quand tu parles à une machine. 🤖⚖️
 
-## Légende Instagram (carrousel)
+Voici ce qui change concrètement :
+1. Les chatbots (ChatGPT, Claude, Gemini...) doivent se déclarer comme IA
+2. Les images et vidéos générées par IA doivent porter un watermark
+3. Les deepfakes et textes IA sur l'actu doivent être signalés
+4. Les entreprises qui ne jouent pas le jeu risquent jusqu'à 15 millions d'euros d'amende
 
-Google vient de lancer un prof IA gratuit pour réviser.
+Toi qui utilises l'IA tous les jours pour tes cours ou tes projets, est-ce que tu savais que cette loi existait ? Dis-le en commentaire 👇
 
-Ça s'appelle Study Notebooks, et c'est dans l'app Gemini (ou sur notebook.google.com).
+Suis @ia.aujourdhui pour comprendre l'IA sans jargon, chaque semaine.
 
-Comment ça marche :
-1. Tu uploades tes cours, tes notes ou ton syllabus
-2. L'IA te fait passer un quiz diagnostic pour repérer tes lacunes
-3. Elle te génère des leçons courtes ciblées sur ce que tu ne maîtrises pas encore
-4. Un tableau de bord suit ta progression sur plus de 100 objectifs
+#intelligenceartificielle #IA #ChatGPT #Claude #Gemini #actuia #etudiant #tech #aiact #technologie
 
-100% gratuit, en français, dispo en France, juste avec un compte Google.
+## TikTok
 
-Tu testes ça pour cette rentrée ou tu restes sur tes fiches papier ? Dis-le en commentaire.
+Depuis le 2 août, y'a une loi qui change ta façon d'utiliser l'IA et personne n'en parle 👀
 
-Abonne-toi pour un outil IA gratuit chaque jour.
+Ce qui change :
+1. Les chatbots doivent te dire qu'ils sont des IA
+2. Les images/vidéos IA ont un watermark obligatoire
+3. Amende jusqu'à 15 millions € pour les entreprises hors la loi
 
-#IA #IntelligenceArtificielle #Etudiant #Rentree #Gemini #Google #Productivite #Astuces #Etudes #TechFR
+Toi t'en avais entendu parler ou pas du tout ? 👇
 
-## Légende TikTok (slides photo)
+Suis @ia.aujourdhui pour + d'actus IA simples à comprendre
 
-Google a lancé un prof IA gratuit pour réviser (et personne n'en parle)
-
-Ça s'appelle Study Notebooks, dans l'app Gemini :
-1. Tu uploades tes cours
-2. Quiz diagnostic pour trouver tes lacunes
-3. Leçons courtes sur mesure
-4. Dashboard qui suit ta progression
-
-Gratuit, en français, juste un compte Google perso.
-
-Tu connaissais ? Dis-le en commentaire.
-
-#IA #Gemini #Etudiant #Rentree #pourtoi
+#pourtoi #IA #intelligenceartificielle #ChatGPT #actuia
